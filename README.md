@@ -1,4 +1,4 @@
 # newwebsite
 I would like to make some changes
-Waht is the nes changes file
-waht is 
+
+There is new change to the readme file in the new banch update.readme
